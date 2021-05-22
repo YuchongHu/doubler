@@ -145,3 +145,24 @@ And you can compare the output file with the input file to check the correctness
 
 We also provide a tester to test our erasure code interface without hadoop.
 You can `cd drc_interface` and run `./tester` to get detail usage.
+
+
+## Publication
+
+Yuchong Hu, Xiaolu Li, Mi Zhang, Patrick P. C. Lee, Xiaoyang Zhang, Pan Zhou, and Dan Feng.
+"Optimal Repair Layering for Erasure-Coded Data Centers: From Theory to Practice."
+ACM Transactions on Storage (TOS), 13(4), pp. 33:1-33:24, December 2017.
+
+## Contact
+
+Please email to Yuchong Hu ([yuchonghu@hust.edu.cn](mailto:yuchonghu@hust.edu.cn)) if you have any questions.
+
+## Our other works
+
+Welcome to follow our other works!
+
+1. FAST 2021: https://github.com/YuchongHu/ecwide
+2. ICDCS 2021: https://github.com/YuchongHu/stripe-merge
+3. SoCC 2019: https://github.com/YuchongHu/echash
+4. INFOCOM 2018: https://github.com/YuchongHu/ncscale
+5. TOS: https://github.com/YuchongHu/doubler
